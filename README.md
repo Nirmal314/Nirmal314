@@ -27,7 +27,7 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
             height="45"
           />
           <img
-            src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg"
+            src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"
             width="40"
             height="40"
           />
@@ -42,7 +42,7 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
             height="45"
           />
           <img
-            src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg"
+            src="https://logosandtypes.com/wp-content/uploads/2021/04/framer-motion.svg"
             width="40"
             height="40"
           />
