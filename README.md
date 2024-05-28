@@ -23,11 +23,11 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
 <p align="left">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-            width="45"
-            height="45"
+            width="40"
+            height="40"
           />
           <img
-            src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"
+            src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"
             width="40"
             height="40"
           />
@@ -38,16 +38,16 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
           />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-            width="45"
-            height="45"
-          />
-          <img
-            src="https://logosandtypes.com/wp-content/uploads/2021/04/framer-motion.svg"
             width="40"
             height="40"
           />
           <img
-            src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg"
+            src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://raw.githubusercontent.com/meech-ward/sammeechward.com_mdx/master/content/articles/database/why-use-prisma/images/why-use-prisma.png"
             width="40"
             height="40"
           />
@@ -83,8 +83,8 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
           />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-            width="45"
-            height="45"
+            width="40"
+            height="40"
           />
           <img
             src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg"
@@ -108,13 +108,13 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
           />
           <img
             src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
-            width="50"
-            height="50"
+            width="40"
+            height="40"
           />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-            width="45"
-            height="45"
+            width="40"
+            height="40"
           />
           <img
             src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
@@ -128,11 +128,6 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
           />
           <img
             src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
-            width="40"
-            height="40"
-          />
-          <img
-            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
             width="40"
             height="40"
           />
