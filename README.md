@@ -5,7 +5,7 @@
 <a href="mailto:nambasana033@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-ambasana-753a82220/)
 
-<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 60px>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Nirmal (AKA Nemo🐠) </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Nirmal (AKA Nemo🐠) </h1>
 
 <div align="center">
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
@@ -132,12 +132,12 @@
 
 
 ---
-- ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.json`, `.cs`, `.cshtml`, `.prisma`
-- 👯 Looking to collaborate on Open Source Projects
+- 🖥️ I use daily: `.ts`, `.js`, `.tsx`, `.json`, `.cs`, `.cshtml`, `.prisma`
+- 👀 Looking to collaborate on Open Source Projects
 - 🌱 Learning more about and studying: **Next.js , Linux , UI/UX , .NET , MERN Stack , Open Source , AI**
 - 💬 Ask me about **Next.js , React JS , Linux , UX**
 - 📫 How to reach me **nambasana033@gmail.com**
-- 😄 Love to leverage the power of AI in development!
+- 🤖 Love to leverage the power of AI in development!
 ---
 
 
