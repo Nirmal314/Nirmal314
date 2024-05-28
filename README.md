@@ -1,4 +1,4 @@
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -21,32 +21,131 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="php" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="php" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</p>
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+            width="45"
+            height="45"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+            width="45"
+            height="45"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+            width="45"
+            height="45"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
+            width="50"
+            height="50"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+            width="45"
+            height="45"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
+            width="40"
+            height="40"
+          />
+        </p>
 
 
 ---
-- ⚙️ I use daily: `.py`, `.js`, `.jsx`, `.php`, `.svg`, `.sql`
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💅 Want to work at: **People**
-- 🌱 Learning more about and studying: **DSA , React JS, Node JS, AI, API, Open Source**
-- 💬 Ask me about **Artificial intelligence , React JS , Linux**
-- 📫 How to reach me **premacharya2193@gmail.com**
-- 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
-- ⚡ Fun fact Love Tech Jokes😂
+- ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.json`, `.cs`, `.cshtml`, `.prisma`
+- 👯 Looking to collaborate on Open Source Projects
+- 🌱 Learning more about and studying: **Next.js , Linux , UI/UX , .NET , MERN Stack , Open Source , AI**
+- 💬 Ask me about **Next.js , React JS , Linux , UX**
+- 📫 How to reach me **nambasana033@gmail.com**
+- 😄 Love to leverage the power of AI in development!
 ---
 
 
@@ -55,8 +154,6 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-acharya&layout=compact&theme=radical)
-
-<b>Note</b>: *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
 <!-- 
 
