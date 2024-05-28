@@ -1,12 +1,9 @@
-     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="mailto:nambasana033@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-ambasana-753a82220/)
-<!--
-https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
--->
 
 <h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 60px>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Nirmal (AKA Nemo🐠) </h1>
 
@@ -148,18 +145,6 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-acharya&layout=compact&theme=radical)
-
-<!-- 
-
-## Statistics
-
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=prem-acharya&show_icons=true&theme=radical)
-
-## Commit Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prem-acharya&tshow_icons=true&theme=radical)
-
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal314&layout=compact&theme=radical)
      
 </div>
