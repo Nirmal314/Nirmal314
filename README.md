@@ -152,17 +152,17 @@
 
 <div align="center">
 
-## Top Languages
+## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Nirmal314&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nirmal314&show_icons=true&theme=dark)
      
 </div>
 
 
 <div align="center">
 
-## Top Languages
+## Contributions
 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=Nirmal314&theme=dark)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nirmal314&theme=dark)
      
 </div>
